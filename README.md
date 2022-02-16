@@ -1,8 +1,10 @@
- 👋 Hi, I’m Tal Wind, A passionate Fullstack Web Developer from Israel
- 👀 I’m interested in Fullstack Development
- 🌱 I’m currently learning how to become a Full-Stack Web Developer
- 💞️ I’m looking to collaborate on ...
- 📫 How to reach me, at: talwind1@gmail.com
+* 👋>######  Hi, I’m Tal Wind
+* 👀> I’m interested in Fullstack Development, Machine Learning, Data Science 
+* 🌱> I’m currently learning Full-Stack Web Development
+* 💞️> I’m looking to collaborate on ...
+* 📫> How to reach me, at: talwind1@gmail.com
+[See me in Linkedin](https://www.linkedin.com/in/tal-wind/).
+
 
 <!---
 Talwind1/Talwind1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
