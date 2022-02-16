@@ -1,8 +1,8 @@
-* 👋######Hi, I’m Tal Wind
-* 👀>I’m interested in Fullstack Development, Machine Learning, Data Science 
-* 🌱>I’m currently learning Full-Stack Web Development
-* 💞️>I’m looking to collaborate on ...
-* 📫>How to reach me, at: talwind1@gmail.com
+* 👋 Hi, I’m Tal Wind
+* 👀 I’m interested in Fullstack Development, Machine Learning, Data Science 
+* 🌱 I’m currently learning Full-Stack Web Development
+* 💞️ I’m looking to collaborate on ...
+* 📫 How to reach me, at: talwind1@gmail.com
 [See me in Linkedin](https://www.linkedin.com/in/tal-wind/).
 
 
