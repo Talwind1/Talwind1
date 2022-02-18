@@ -1,6 +1,6 @@
 * 👋 Hi, I’m Tal Wind
 * 👀 I’m interested in Fullstack Development, Machine Learning, Data Science 
-* 🌱 I’m currently learning Full-Stack Web Development
+* 🌱 I’m currently a fullstack student at appleseeds.
 * 💞️ I’m looking to collaborate on anything that involves Vanilla JS, React, NodeJS
 * 📫 How to reach me, at: talwind1@gmail.com
 * [Reach me at Linkedin](https://www.linkedin.com/in/tal-wind/).
