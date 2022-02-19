@@ -1,6 +1,6 @@
 ### Hi there👋 I’m Tal 
 
-* 🌱 I’m a fullstack student at appleseeds.
+* 🌱 I’m a fullstack student at Appleseeds.
 * 👀 I’m interested in Fullstack Development, Machine Learning, Data Science 
 * 💞️ I’m looking to collaborate on anything that involves Vanilla JS, React, NodeJS
 * 📫 Reach me at: talwind1@gmail.com
