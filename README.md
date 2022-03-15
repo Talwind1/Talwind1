@@ -1,7 +1,10 @@
 ### Hi there🌟
 
 * 👀 I like making things, I'm a fairly curious person.
-* <img align="left" alt="easy" width="40px" src="https://image.apktoy.com/img/7f/easy.co.il.easy3/icon.png"/> I’m a fullstack developr at [Easy](https://easy.co.il/).
+
+ <img align="left" alt="easy" width="40px" src="https://image.apktoy.com/img/7f/easy.co.il.easy3/icon.png"/>
+
+* I’m a fullstack developr at [Easy](https://easy.co.il/).
 * 💞️ I like anything that involves Web Development. 
 * 💻  I'm using Vanilla JS, React, Html, Css, Node. Studying Vue , Nuxt ... and always curious for MORE
 * 📫 Reach me at: talwind1@gmail.com
