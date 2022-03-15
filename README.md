@@ -1,8 +1,8 @@
-### Hi there👋 I’m Tal 
+### Hi there👋 I like making things, I'm a fairly curious person.
 
-* 🌱 I’m a fullstack student at Appleseeds.
-* 👀 I’m interested in Fullstack Development, Machine Learning, Data Science 
-* 💞️ I’m looking to collaborate on anything that involves Vanilla JS, React, NodeJS
+* 🌱 I’m a fullstack developr at [Easy](https://easy.co.il/).
+* 💞️ I like anything that involves Web Development. 
+* 👀  I'm using Vanilla JS, React, Html, Css, Node. Studing Vue , Nuxt ... and always curious for MORE
 * 📫 Reach me at: talwind1@gmail.com
 * [Reach me at Linkedin](https://www.linkedin.com/in/tal-wind/).
 
