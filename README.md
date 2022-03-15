@@ -1,9 +1,9 @@
-### Hi there👋 
+### Hi there🌟
 
-* I like making things, I'm a fairly curious person.
+* 👀 I like making things, I'm a fairly curious person.
 * 🌱 I’m a fullstack developr at [Easy](https://easy.co.il/).
 * 💞️ I like anything that involves Web Development. 
-* 👀  I'm using Vanilla JS, React, Html, Css, Node. Studing Vue , Nuxt ... and always curious for MORE
+* 💻  I'm using Vanilla JS, React, Html, Css, Node. Studying Vue , Nuxt ... and always curious for MORE
 * 📫 Reach me at: talwind1@gmail.com
 * [Reach me at Linkedin](https://www.linkedin.com/in/tal-wind/).
 
