@@ -13,7 +13,6 @@ Talwind1/Talwind1 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-#### [<img align="left" alt="easy" width="40px" src="https://image.apktoy.com/img/7f/easy.co.il.easy3/icon.png"/>]
 
 
 
@@ -29,3 +28,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
+#### [<img align="left" alt="easy" width="40px" src="https://image.apktoy.com/img/7f/easy.co.il.easy3/icon.png"/>]
